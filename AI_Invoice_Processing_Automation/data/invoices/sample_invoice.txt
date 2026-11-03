@@ -1,0 +1,11 @@
+SAMPLE INVOICE (text fixture for testing the extraction concept)
+
+Vendor: Northstar Office Supplies
+Invoice No: NS-2026-1048
+Invoice Date: 12/10/2026
+Due Date: 26/10/2026
+Subtotal: INR 12,500.00
+GST: INR 2,250.00
+Grand Total: INR 14,750.00
+
+This is a text sample only. Upload a real PDF or image in the app.
